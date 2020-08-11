@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spring-turbine.iml" filepath="$PROJECT_DIR$/.idea/spring-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_hystrix_repo.iml" filepath="$PROJECT_DIR$/.idea/spring_hystrix_repo.iml" />
     </modules>
   </component>
 </project>
