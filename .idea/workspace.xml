@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="715a4680-20c1-4a30-b70d-415399c137ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/java/com/cloudgateway/springbootcloudgateway/SpringbootcloudgatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/java/com/cloudgateway/springbootcloudgateway/SpringbootcloudgatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/java/com/cloudgateway/springbootcloudgateway/apiGatewayConfig/SpringCloudConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/java/com/cloudgateway/springbootcloudgateway/apiGatewayConfig/SpringCloudConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/java/com/cloudgateway/springbootcloudgateway/controller/SpringCloudFallBackContoller.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/java/com/cloudgateway/springbootcloudgateway/controller/SpringCloudFallBackContoller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/API_Gateway/SpringBootCloudAPIGateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/java/com/springservice/clientone/ClientoneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/java/com/springservice/clientone/ClientoneApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/java/com/springservice/clientone/controllers/simpleControllerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/java/com/springservice/clientone/controllers/simpleControllerOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/java/com/springservice/clientone/controllers/simpleControllerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/java/com/springservice/clientone/controllers/simpleControllerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientOne/clientone/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/java/com/springservice/clientTwo/ClientTwoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/java/com/springservice/clientTwo/ClientTwoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/java/com/springservice/clientTwo/controllers/simpleControllerOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/java/com/springservice/clientTwo/controllers/simpleControllerOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/java/com/springservice/clientTwo/controllers/simpleControllerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/java/com/springservice/clientTwo/controllers/simpleControllerTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/ClientTwo/clientTwo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/Eureka_Admin_Server/EurekaAdminServer/src/main/java/com/eureka/admin/AdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/Eureka_Admin_Server/EurekaAdminServer/src/main/java/com/eureka/admin/AdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/Eureka_Admin_Server/EurekaAdminServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/Eureka_Admin_Server/EurekaAdminServer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/hystrix_dashboard/hystrix-turbine/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud_API_Gateway_with_Eureka/SpringCloud_API_Gateway_Eureka_SpringBoot/hystrix_dashboard/hystrix-turbine/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-turbine/hystrix-turbine/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-turbine/hystrix-turbine/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-turbine/recommendation-service/src/main/java/com/mynotes/spring/cloud/service/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-turbine/recommendation-service/src/main/java/com/mynotes/spring/cloud/service/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-turbine/user-service/src/main/java/com/mynotes/spring/cloud/hystrix/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-turbine/user-service/src/main/java/com/mynotes/spring/cloud/hystrix/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-turbine/user-service/src/main/java/com/mynotes/spring/cloud/hystrix/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-turbine/user-service/src/main/java/com/mynotes/spring/cloud/hystrix/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-turbine/user-service/src/main/java/com/mynotes/spring/cloud/hystrix/UserRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-turbine/user-service/src/main/java/com/mynotes/spring/cloud/hystrix/UserRestController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gSKcH7PWmPWfpdqZTnc7JpsWfA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="715a4680-20c1-4a30-b70d-415399c137ea" name="Default Changelist" comment="" />
+      <created>1598102632535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598102632535</updated>
+    </task>
+    <servers />
+  </component>
+</project>

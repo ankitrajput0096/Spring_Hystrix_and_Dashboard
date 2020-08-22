@@ -15,7 +15,8 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://eurekaadminservertwo:9002/eureka/,http://eurekaadminserverthree:9003/eureka/
+      defaultZone: http://eurekaadminservertwo:9002/eureka/,\
+      http://eurekaadminserverthree:9003/eureka/
 
 ---
 spring:
@@ -34,7 +35,8 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://eurekaadminserverone:9001/eureka/,http://eurekaadminserverthree:9003/eureka/
+      defaultZone: http://eurekaadminserverone:9001/eureka/,\
+      http://eurekaadminserverthree:9003/eureka/
 
 ---
 spring:
@@ -53,4 +55,5 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://eurekaadminserverone:9001/eureka/,http://eurekaadminservertwo:9002/eureka/
+      defaultZone: http://eurekaadminserverone:9001/eureka/,\
+      http://eurekaadminservertwo:9002/eureka/

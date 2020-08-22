@@ -17,34 +17,51 @@ import org.springframework.core.env.Environment;
 @RequestMapping(value="/clientOne/ControllerTwo")
 public class simpleControllerTwo {
 
-    private static Logger logger = LoggerFactory.getLogger(simpleControllerTwo.class);
+    private static Logger logger =
+            LoggerFactory.getLogger(simpleControllerTwo.class);
 
     @Autowired
     private Environment env;
 
-    @RequestMapping(value="/EndpointOne", method = RequestMethod.GET, produces = "application/json")
-    public ResponseEntity<String> controllerClientOneEndpointOne(@RequestHeader("sso-token") String token) {
+    @RequestMapping(
+            value="/EndpointOne",
+            method = RequestMethod.GET,
+            produces = "application/json")
+    public ResponseEntity<String> controllerClientOneEndpointOne(
+            @RequestHeader("sso-token") String token) {
 
-        logger.info("Inside service client one, controller two and endpoint one");
-        logger.info("Now processing sso token passed by api gateway"+token);
+        logger.info("Inside service client one," +
+                " controller two and endpoint one");
+        logger.info("Now processing sso token " +
+                "passed by api gateway"+token);
         //Add a small delay in response
         utils.addDelay(3);
 
         return ResponseEntity
         .ok()
-        .body("This is hello endpoint one from controller two in client One on port : " + (env.getProperty("local.server.port")));
+        .body("This is hello endpoint one from controller " +
+                "two in client One on port : " +
+                (env.getProperty("local.server.port")));
     }
 
-    @RequestMapping(value="/EndpointTwo", method = RequestMethod.GET, produces = "application/json")
-    public ResponseEntity<String> controllerClientOneEndpointTwo(@RequestHeader("sso-token") String token) {
+    @RequestMapping(
+            value="/EndpointTwo",
+            method = RequestMethod.GET,
+            produces = "application/json")
+    public ResponseEntity<String> controllerClientOneEndpointTwo(
+            @RequestHeader("sso-token") String token) {
 
-        logger.info("Inside service client one, controller two and endpoint two");
-        logger.info("Now processing sso token passed by api gateway"+token);
+        logger.info("Inside service client one, " +
+                "controller two and endpoint two");
+        logger.info("Now processing sso token " +
+                "passed by api gateway"+token);
         //Add a small delay in response
         utils.addDelay(3);
 
         return ResponseEntity
         .ok()
-        .body("This is hello endpoint two from controller two in client One on port : " + (env.getProperty("local.server.port")));
+        .body("This is hello endpoint two from controller two " +
+                "in client One on port : " +
+                (env.getProperty("local.server.port")));
     }
 }

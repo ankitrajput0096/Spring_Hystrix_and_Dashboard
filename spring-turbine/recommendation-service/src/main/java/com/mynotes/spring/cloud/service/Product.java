@@ -8,7 +8,9 @@ public class Product {
 	
 	private String detailsLink;
 	
-	public Product(String name, String description, String detailsLink) {
+	public Product(String name,
+				   String description,
+				   String detailsLink) {
 		super();
 		this.name = name;
 		this.description = description;
@@ -42,7 +44,4 @@ public class Product {
 	public void setDetailsLink(String detailsLink) {
 		this.detailsLink = detailsLink;
 	}
-	
-	
-
 }

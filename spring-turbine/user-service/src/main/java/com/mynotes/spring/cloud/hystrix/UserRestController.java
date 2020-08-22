@@ -17,7 +17,9 @@ public class UserRestController {
     @GetMapping(value = "/personalized/{id}")
     @HystrixCommand(fallbackMethod = "recommendationFallback")
     public Product[] personalized(@PathVariable int id) {
-        Product[] result = restTemplate.getForObject("http://recommendation-service/recommendations", Product[].class);
+        Product[] result = restTemplate
+                .getForObject("http://recommendation-service/recommendations",
+                        Product[].class);
         return result;
     }
 
